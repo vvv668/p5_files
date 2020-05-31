@@ -86,27 +86,27 @@
   {
     "date": "Tuesday",
     "start": 0,
-    "end": 7,
+    "end": 5,
     "activity": "sleep",
     "class": "rest"
   },
   {
     "date": "Tuesday",
-    "start": 7,
-    "end": 8,
+    "start": 5,
+    "end": 6,
     "activity": "breakfirst",
     "class": "eating"
   },
   {
     "date": "Tuesday",
-    "start": 8,
+    "start": 6,
     "end": 10,
     "activity": "coding",
     "class": "working"
   },
   {
     "date": "Tuesday",
-    "start": 11,
+    "start": 10,
     "end": 12,
     "activity": "art",
     "class": "other"
@@ -170,27 +170,27 @@
   {
     "date": "Wensday",
     "start": 0,
-    "end": 7,
+    "end": 5,
     "activity": "sleep",
     "class": "rest"
   },
   {
     "date": "Wensday",
-    "start": 7,
-    "end": 8,
+    "start": 5,
+    "end": 6,
     "activity": "breakfirst",
     "class": "eating"
   },
   {
     "date": "Wensday",
-    "start": 8,
-    "end": 10,
+    "start": 6,
+    "end": 9,
     "activity": "coding",
     "class": "working"
   },
   {
     "date": "Wensday",
-    "start": 11,
+    "start": 9,
     "end": 12,
     "activity": "art",
     "class": "other"
@@ -338,21 +338,21 @@
   {
     "date": "Friday",
     "start": 0,
-    "end": 7,
+    "end": 9,
     "activity": "sleep",
     "class": "rest"
   },
   {
     "date": "Friday",
-    "start": 7,
-    "end": 8,
+    "start": 9,
+    "end": 10
     "activity": "breakfirst",
     "class": "eating"
   },
   {
     "date": "Friday",
-    "start": 8,
-    "end": 10,
+    "start": 10,
+    "end": 11,
     "activity": "coding",
     "class": "working"
   },
