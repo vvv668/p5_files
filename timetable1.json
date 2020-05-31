@@ -1,0 +1,350 @@
+[
+  {
+    "": "Monday",
+    "start": 0,
+    "end": 7,
+    "activity": "sleep"
+  },
+  {
+    "": "Monday",
+    "start": 7,
+    "end": 8,
+    "activity": "breakfirst"
+  },
+  {
+    "": "Monday",
+    "start": 8,
+    "end": 10,
+    "activity": "coding"
+  },
+  {
+    "": "Monday",
+    "start": 11,
+    "end": 12,
+    "activity": "art"
+  },
+  {
+    "": "Monday",
+    "start": 12,
+    "end": 13,
+    "activity": "lunch"
+  },
+  {
+    "": "Monday",
+    "start": 13,
+    "end": 14,
+    "activity": "walk"
+  },
+  {
+    "": "Monday",
+    "start": 14,
+    "end": 16,
+    "activity": "coding"
+  },
+  {
+    "": "Monday",
+    "start": 16,
+    "end": 17,
+    "activity": "reading"
+  },
+  {
+    "": "monday",
+    "start": 17,
+    "end": 18,
+    "activity": "dinner"
+  },
+  {
+    "": "Monday",
+    "start": 18,
+    "end": 19,
+    "activity": "walk"
+  },
+  {
+    "": "Monday",
+    "start": 20,
+    "end": 22,
+    "activity": "TV browsing"
+  },
+  {
+    "": "Monday",
+    "start": 22,
+    "end": 24,
+    "activity": "sleep"
+  },
+  {
+    "": "Tuesday",
+    "start": 0,
+    "end": 7,
+    "activity": "sleep"
+  },
+  {
+    "": "Tuesday",
+    "start": 7,
+    "end": 8,
+    "activity": "breakfirst"
+  },
+  {
+    "": "Tuesday",
+    "start": 8,
+    "end": 10,
+    "activity": "coding"
+  },
+  {
+    "": "Tuesday",
+    "start": 11,
+    "end": 12,
+    "activity": "art"
+  },
+  {
+    "": "Tuesday",
+    "start": 12,
+    "end": 13,
+    "activity": "lunch"
+  },
+  {
+    "": "Tuesday",
+    "start": 13,
+    "end": 14,
+    "activity": "walk"
+  },
+  {
+    "": "Tuesday",
+    "start": 14,
+    "end": 16,
+    "activity": "coding"
+  },
+  {
+    "": "Tuesday",
+    "start": 16,
+    "end": 17,
+    "activity": "reading"
+  },
+  {
+    "": "Tuesday",
+    "start": 17,
+    "end": 18,
+    "activity": "dinner"
+  },
+  {
+    "": "Tuesday",
+    "start": 18,
+    "end": 19,
+    "activity": "walk"
+  },
+  {
+    "": "Tuesday",
+    "start": 20,
+    "end": 22,
+    "activity": "TV browsing"
+  },
+  {
+    "": "Tuesday",
+    "start": 22,
+    "end": 24,
+    "activity": "sleep"
+  },
+  {
+    "": "Wensday",
+    "start": 0,
+    "end": 7,
+    "activity": "sleep"
+  },
+  {
+    "": "Wensday",
+    "start": 7,
+    "end": 8,
+    "activity": "breakfirst"
+  },
+  {
+    "": "Wensday",
+    "start": 8,
+    "end": 10,
+    "activity": "coding"
+  },
+  {
+    "": "Wensday",
+    "start": 11,
+    "end": 12,
+    "activity": "art"
+  },
+  {
+    "": "Wensday",
+    "start": 12,
+    "end": 13,
+    "activity": "lunch"
+  },
+  {
+    "": "Wensday",
+    "start": 13,
+    "end": 14,
+    "activity": "walk"
+  },
+  {
+    "": "Wensday",
+    "start": 14,
+    "end": 16,
+    "activity": "coding"
+  },
+  {
+    "": "Wensday",
+    "start": 16,
+    "end": 17,
+    "activity": "reading"
+  },
+  {
+    "": "Wensday",
+    "start": 17,
+    "end": 18,
+    "activity": "dinner"
+  },
+  {
+    "": "Wensday",
+    "start": 18,
+    "end": 19,
+    "activity": "walk"
+  },
+  {
+    "": "Wensday",
+    "start": 20,
+    "end": 22,
+    "activity": "TV browsing"
+  },
+  {
+    "": "Wensday",
+    "start": 22,
+    "end": 24,
+    "activity": "sleep"
+  },
+  {
+    "": "Thursday",
+    "start": 0,
+    "end": 7,
+    "activity": "sleep"
+  },
+  {
+    "": "Thursday",
+    "start": 7,
+    "end": 8,
+    "activity": "breakfirst"
+  },
+  {
+    "": "Thursday",
+    "start": 8,
+    "end": 10,
+    "activity": "coding"
+  },
+  {
+    "": "Thursday",
+    "start": 11,
+    "end": 12,
+    "activity": "art"
+  },
+  {
+    "": "Thursday",
+    "start": 12,
+    "end": 13,
+    "activity": "lunch"
+  },
+  {
+    "": "Thursday",
+    "start": 13,
+    "end": 14,
+    "activity": "walk"
+  },
+  {
+    "": "Thursday",
+    "start": 14,
+    "end": 16,
+    "activity": "coding"
+  },
+  {
+    "": "Thursday",
+    "start": 16,
+    "end": 17,
+    "activity": "reading"
+  },
+  {
+    "": "Thursday",
+    "start": 17,
+    "end": 18,
+    "activity": "dinner"
+  },
+  {
+    "": "Thursday",
+    "start": 18,
+    "end": 19,
+    "activity": "walk"
+  },
+  {
+    "": "Thursday",
+    "start": 20,
+    "end": 22,
+    "activity": "TV browsing"
+  },
+  {
+    "": "Thursday",
+    "start": 22,
+    "end": 24,
+    "activity": "sleep"
+  },
+  {
+    "": "Friday",
+    "start": 0,
+    "end": 7,
+    "activity": "sleep"
+  },
+  {
+    "": "Friday",
+    "start": 7,
+    "end": 8,
+    "activity": "breakfirst"
+  },
+  {
+    "": "Friday",
+    "start": 8,
+    "end": 10,
+    "activity": "coding"
+  },
+  {
+    "": "Friday",
+    "start": 11,
+    "end": 12,
+    "activity": "art"
+  },
+  {
+    "": "Friday",
+    "start": 12,
+    "end": 13,
+    "activity": "lunch"
+  },
+  {
+    "": "Friday",
+    "start": 13,
+    "end": 14,
+    "activity": "walk"
+  },
+  {
+    "": "Friday",
+    "start": 14,
+    "end": 16,
+    "activity": "coding"
+  },
+  {
+    "": "Friday",
+    "start": 16,
+    "end": 17,
+    "activity": "reading"
+  },
+  {
+    "": "Friday",
+    "start": 17,
+    "end": 18,
+    "activity": "dinner"
+  },
+  {
+    "": "Friday",
+    "start": 18,
+    "end": 24,
+    "activity": "social"
+  }
+]
